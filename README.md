@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/nithingeorge3">
-  <img align="left" alt="Arvind Patel | Twitter" width="22px" src="https://github.com/nithingeorge3/nithingeorge3/blob/main/Source/image.gif" />
+  <img align="left" alt="Nithin | Twitter" width="22px" src="https://github.com/nithingrg3/nithingrg3/blob/main/Source/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/nigeorge/">
-  <img align="left" alt="Arvind's LinkdeIN" width="22px" src="https://github.com/nithingeorge3/nithingeorge3/blob/main/Source/linkedin.svg" />
+  <img align="left" alt="Nithin's LinkdeIN" width="22px" src="https://github.com/nithingeorge3/nithingeorge3/blob/main/Source/linkedin.svg" />
 </a>
 
 <br/>
