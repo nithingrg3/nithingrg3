@@ -12,8 +12,6 @@
 <br/>
 
 Hi, I'm [Nithin George](https://www.linkedin.com/in/nigeorge/), senior iOS Developer 🚀 located in Redhill UK. Beside's programming, I enjoy sports, driving and eating food.
-
-  <img align="right" alt="GIF" src="https://github.com/nithingeorge3/nithingeorge3/blob/main/Source/image.jpg" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
